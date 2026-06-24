@@ -3,12 +3,6 @@ declare const Il2Cpp: any;
 declare const console: any;
 declare const XRNode: any;
 
-// DUMPED BY AC WATCHER BOT
-// Unity 6000.3.12f1 | Build 23881873
-
-// Symbols Pulled By N5
-// Unity 6000.3.12f1 | Build 23649362
-
 Il2Cpp.$config.exports = {
 	il2cpp_init: () => Il2Cpp.module.findExportByName("KtsFmZNLMgp"),
 	il2cpp_init_utf16: () => Il2Cpp.module.findExportByName("rCmwlvDGFVC"),
